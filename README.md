@@ -18,9 +18,6 @@
 - 🔐 **Privacy-First Architecture**  
   Entire stack is offline and self-contained — designed with user privacy at the core.
 
-- 🎙️ **Planned: Voice-Based Reminder Creation (STT)**  
-  Voice input integration using Expo’s Speech-to-Text API is in progress to enable hands-free task creation.
-
 - 🤖 **Future Integration with Project AARNA**  
   Reminderly is being adapted into a modular agent for AARNA — to function as a voice-controlled task assistant.
 
